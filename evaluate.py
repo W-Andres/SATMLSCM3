@@ -7,7 +7,7 @@ Evaluación de modelos de Machine Learning
 SAT-ML SCM
 
 Autor:
-Wilson Andrés Carbajal Barreto
+Wilson Andrés Carvajal Barreto
 
 Versión:
 2.0
