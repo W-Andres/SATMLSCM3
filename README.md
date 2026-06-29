@@ -260,7 +260,7 @@ Trabajo de Grado
 
 Ingeniería de Sistemas
 
-Fundación Universitaria Compensar
+CUN: Corporación Unificada Nacional de Educación Superior
 
 ---
 
