@@ -11,7 +11,7 @@ En producción esta capa podrá reemplazarse por una conexión
 directa al ERP o WMS corporativo.
 
 Autor:
-Wilson Andrés Carbajal Barreto
+Wilson Andrés Carvajal Barreto
 
 Versión:
 2.0
