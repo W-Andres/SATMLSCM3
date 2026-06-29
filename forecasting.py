@@ -13,7 +13,7 @@ Responsabilidades:
 - Preparar información para el Dashboard.
 
 Autor:
-Wilson Andrés Carbajal Barreto
+Wilson Andrés Carvajal Barreto
 Versión: 2.0
 ==============================================================
 """
