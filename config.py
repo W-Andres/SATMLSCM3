@@ -9,7 +9,7 @@ Trabajo de Grado
 Ingeniería de Sistemas
 
 Autor:
-Wilson Andrés Carbajal Barreto
+Wilson Andrés Carvajal Barreto
 
 Versión:
 2.0.0
@@ -26,9 +26,9 @@ APP_NAME = "SAT-ML SCM"
 
 APP_VERSION = "2.0.0"
 
-AUTHOR = "Wilson Andrés Carbajal Barreto"
+AUTHOR = "Wilson Andrés Carvajal Barreto"
 
-UNIVERSIDAD = "Fundación Universitaria Compensar"
+UNIVERSIDAD = "CUN: Corporación Unificada Nacional de Educación Superior"
 
 PROJECT_DESCRIPTION = (
     "Sistema Inteligente de Analítica Predictiva Logística "
