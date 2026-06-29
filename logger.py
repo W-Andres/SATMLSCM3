@@ -8,7 +8,7 @@ Permite registrar información, advertencias y errores
 en archivo y consola.
 
 Autor:
-Wilson Andrés Carbajal Barreto
+Wilson Andrés Carvajal Barreto
 
 Versión:
 2.0
