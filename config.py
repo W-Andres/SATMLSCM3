@@ -231,5 +231,5 @@ WELCOME_MESSAGE = (
 
 FOOTER = (
     "Trabajo de Grado | Ingeniería de Sistemas | "
-    "Wilson Andrés Carbajal Barreto | SAT-ML SCM v2.0"
+    "Wilson Andrés Carvajal Barreto | SAT-ML SCM v2.0"
 )
